@@ -17,4 +17,4 @@ order: 4
     - Ph.D., Computer Sicence, Max Planck Institute for Intelligent Systems (2017 - present)
         - also affiliated with University of Tuebingen
 
-- [Curriculum Vitae](https://drive.google.com/file/d/1T2HGFkbEMj-8mrKEbD-Sb4E1lfdt05K-/view?usp=sharing)
+- [Curriculum Vitae](https://drive.google.com/file/d/1T2HGFkbEMj-8mrKEbD-Sb4E1lfdt05K-/view?usp=sharing){:target="_blank"}
