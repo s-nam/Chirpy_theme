@@ -23,7 +23,7 @@ github:
 #  username:             # change to your twitter username
 
 social:
-  name: your_full_name                  # it will shows as the copyright owner in Footer
+  name: Saekwang Nam                  # it will shows as the copyright owner in Footer
   email: saekwang.nam@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
@@ -56,8 +56,9 @@ google_analytics:
     cache: false  # pv data local cache, good for the users from GFW area.
 
 disqus:
-  comments: false  # boolean type, the global switch for posts comments.
-  shortname: ''    # Fill with your Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
+  comments: true  # boolean type, the global switch for posts comments.
+  disqus_url: https://s-nam.disqus.com/
+  shortname: 's-nam'    # Fill with your Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 
 # Prefer color scheme setting.
@@ -72,7 +73,7 @@ disqus:
 #
 #     dark   - Use the dark color scheme
 #
-theme_mode:   # [light|dark]
+theme_mode: 'dark'  # [light|dark]
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
