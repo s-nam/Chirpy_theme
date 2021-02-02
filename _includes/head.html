@@ -77,4 +77,10 @@
 
   {% include js-selector.html %}
 
+  <!-- Mathjax -->
+  /* mathjax 추가 */
+  {% if page.use_math %}
+    {% include mathjax_support.html %}
+  {% endif %}
+
 </head>

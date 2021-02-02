@@ -4,7 +4,7 @@ author: Saekwang Nam
 date: 2021-02-01 23:03:00 +0100
 categories: [Technical Writing, 단어]
 tags: [English, Technical, Writing, Journal, 영어논문, 영작, 영어, 문법, except, except for]
-math: true
+use_math: true
 mermaid: true
 pinned: false
 ---
@@ -28,7 +28,6 @@ pinned: false
 > - 나는 비 오는 날은 제외하고는 조깅을 했었을텐데. (would have p.p.: 단순 유감과 후회)
 
 ### except 이후에 that 절을 수반하는 경우 $\Rightarrow$ except 만 가능.
-how about this? $\Rightarrow$
 > I know nothing about them **except that** they are from Korea.
 > - 그들이 한국에서 온 것 외에는 아는 게 아무것도 없다. 
 
