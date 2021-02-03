@@ -12,7 +12,7 @@ image:
   
 ---
 
-![Desktop View](https://s-nam.github.io/assets/img/posts/EH2020_Best_Poster_Award01.jpg){: width="240" .left}
+![Desktop View](https://s-nam.github.io/assets/img/posts/EH2020_Best_Poster_Award01.jpg){: width="300" .left}
 
 I am honored to receive the best poster award in EuroHaptics 2020 Conference at Leiden, the Netherlands.
 
