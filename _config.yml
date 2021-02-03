@@ -24,7 +24,7 @@ github:
 
 social:
   name: Saekwang Nam                  # it will shows as the copyright owner in Footer
-  email: saekwang.nam@gmail.com             # change to your email address
+  email: contact.nam17@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
     # - https://twitter.com/username      # change to your twitter homepage
@@ -73,7 +73,7 @@ disqus:
 #
 #     dark   - Use the dark color scheme
 #
-theme_mode: 'dark'  # [light|dark]
+theme_mode: 'light'  # [light|dark]
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
