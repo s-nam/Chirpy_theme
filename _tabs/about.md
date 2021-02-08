@@ -17,7 +17,7 @@ I was born in **South Korea**. After high school, I could get a chance to **stud
 ### The purpose of this website
 In addition to the studies in my own field, I also have learned how to improve my **English writings**. At the same time, I learned a lot about **probabilistic machine learning**. This website is built mainly to summarize such knowledge.
 
-If you are interested more in me, please check my [Curriculum Vitae](https://drive.google.com/file/d/1T2HGFkbEMj-8mrKEbD-Sb4E1lfdt05K-/view?usp=sharing){:target="_blank"} or email me. (You can find my email address in my CV.)
+If you are interested more in me, please check my [Curriculum Vitae](https://s-nam.github.io/assets/files/cv_Saekwang_Nam.pdf){:target="_blank"} or email me. (You can find my email address in my CV.)
 
 ### Education
 - B.E., Human & Mechanical Systems Engineering, Kanazawa University (2007 - 2011)
