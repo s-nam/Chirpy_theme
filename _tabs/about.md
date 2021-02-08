@@ -15,7 +15,7 @@ I am currently a Ph.D. student in the [Haptic Intelligence department](https://h
 I was born in **South Korea**. After high school, I could get a chance to **study in Japan** with the government funding called the "Korea-Japan Government Scholarship Program." Thus, I studied at Kanazawa University, majoring in mechanical engineering. While studying there, I decided to become a robot scientist who can understand both **mechanical engineering** and **computer science** fields. The passion led me to study computer science at the **University of California, San Diego**. Once the master course was over, I had to go back to South Korea to finish the mandatory military service. Luckily, the Electronics and Telecommunications Research Institute (ETRI), one of the government-funded research institutes in Korea, hired me as technical research personnel (considered as a military servant). In **ETRI**, I developed several applications based on electroactive polymers and the related programs. I then came across to Germany for my doctoral studies.
 
 ### The purpose of this website
-During the doctoral period, I have learned how to improve my **English writings**. At the same time, I learned a lot about **probabilistic machine learning**. This website is built mainly to summarize such knowledge.
+In addition to the studies in my own field, I also have learned how to improve my **English writings**. At the same time, I learned a lot about **probabilistic machine learning**. This website is built mainly to summarize such knowledge.
 
 If you are interested more in me, please check my [Curriculum Vitae](https://drive.google.com/file/d/1T2HGFkbEMj-8mrKEbD-Sb4E1lfdt05K-/view?usp=sharing){:target="_blank"} or email me. (You can find my email address in my CV.)
 
