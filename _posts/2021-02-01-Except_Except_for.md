@@ -32,3 +32,9 @@ pinned: false
 > - 그들이 한국에서 온 것 외에는 아는 게 아무것도 없다. 
 
 위와 같이, **except that** 의 경우는 "I know nothing about them." + "they are from Korea." 라는 두개의 완벽하고 독립된 문장이 나열되어 있으므로, 이런 경우에 excep는 두 문장을 연결해 주는 **접속사 (conjunction)** 역할을 한다.
+
+### 예시 문장들
+- It was a civil forfeiture case hearing like any other hearing, **except for** the lawyer cat. [^footnote_1]
+
+### Sources
+[^footnote_1]: https://www.nytimes.com/2021/02/09/style/cat-lawyer-zoom.html
