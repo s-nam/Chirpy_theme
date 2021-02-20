@@ -27,7 +27,6 @@ pinned: false
     - Mon always got up ahead of us kids.
     - ... to not just measure slip, but to predict slip ahead of time [^footnote3]...
 
-
 ## 4. Sources
 [^footnote1]: https://www.quora.com/Whats-the-difference-between-ahead-of-and-in-front-of
 [^footnote2]: https://www.nytimes.com/2021/02/09/business/britain-real-estate-landlord-tenant.html
