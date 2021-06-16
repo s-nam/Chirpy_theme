@@ -23,6 +23,7 @@ pinned: false
 
 ### 4. 금속 원소들
 - Gold, silver, oxygen 등등은 당연히 셀 수 없다.
+  - 유명한 책인 "총,균,쇠"의 영문명이 "Guns, Germs, and Steel" 임을 기억하자! 마지막 금속에는 복수형태가 오지 않는다!!
 
 ### 5. 액체류
 - Water, oil, ink 등의 액체류는 셀 수 없다.
@@ -46,6 +47,14 @@ pinned: false
   - My main interests are cycling and swimming.
 - 셀 수 없는 명사: 흥미, 관심
   - Thank you for your interest!
+
+### 3. Support
+- 셀 수 있는 명사 (A support, supports): 지지대, 지지봉, 버팀봉과 같은 물건을 의미할 때.
+- 셀 수 없는 명사: 지지, 응원, 지원 등의 형태가 없는 것을 의미할 때.
+
+### 4. Effort
+- 셀 수 있는 명사 (An effort, efforts): 이 명사는 복수 형태로 더 자주 쓰이는 느낌이다. "노력들"이라고 할 때 복수형태로 쓰면 된다. "공" 이라는 의미로도 복수형태로 쓰일 수 있다.
+- 셀 수 없는 명사: "수고", "수고를 요하는 것". 일반적인 개념으로써의 "수고"는 셀 수 없는 명사로 쓴다.
 
 ## Sources
 [^fn_1]: https://raccoonenglish.tistory.com/2588
